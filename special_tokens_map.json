@@ -1,0 +1,15 @@
+{
+  "additional_special_tokens": [
+    "<anger>",
+    "<disgust>",
+    "<fear>",
+    "<happy>",
+    "<sad>",
+    "<surprise>",
+    "<neutral>"
+  ],
+  "bos_token": "<BOS>",
+  "eos_token": "<EOS>",
+  "pad_token": "<PAD>",
+  "unk_token": "<|endoftext|>"
+}
