@@ -22,9 +22,7 @@ Twitter Data ➜ Sentiment Analysis ➜ Mood Classification
               ➜ Poem Generation (NLP) ➜ Music Generation (MIDI)
 ```
 
-You can optionally visualize it like this:
 
-![Project Architecture](https://user-images.githubusercontent.com/your-username/your-image-path/architecture.png) <sup>*(Replace with your own image URL if desired)*</sup>
 
 ## 🧰 Tech Stack
 
@@ -80,10 +78,4 @@ After execution, the script will generate:
 
 Pull requests are welcome! Feel free to open issues for bugs, enhancements, or new ideas.
 
-## 📄 License
 
-This project is licensed under the MIT License.
-
----
-
-Would you like me to generate a simple architecture diagram to include in the README as a visual aid?
